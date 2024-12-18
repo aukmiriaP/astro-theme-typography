@@ -5,16 +5,16 @@ import type { ThemeConfig } from '~/types'
 
 export const defaultConfig: ThemeConfig = {
   site: {
-    title: '月隙碎笔',
-    subtitle: 'aukmiria',
-    author: 'aukmiria',
+    title: '活版印字',
+    subtitle: 'Typography',
+    author: 'Moeyua',
     description: 'Rediscory the beauty of typography',
     website: 'https://astro-theme-typography.vercel.app/',
     pageSize: 5,
     socialLinks: [
       {
         name: 'github',
-        href: 'https://github.com/aukmiriaP',
+        href: 'https://github.com/moeyua/astro-theme-typography',
       },
       {
         name: 'rss',
